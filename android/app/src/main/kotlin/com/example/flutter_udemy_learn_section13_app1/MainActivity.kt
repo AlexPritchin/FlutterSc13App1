@@ -1,4 +1,4 @@
-package com.example.flutter_udemy_learn_section13_app1
+package com.myapps.great_places
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
